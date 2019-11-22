@@ -1,0 +1,235 @@
+.div1{
+    background-color:#fC0;
+    height:5px;
+    width:auto;
+}
+
+.menu1{
+    
+    font-size: 15px;
+    background-color:white;
+    width:auto;
+    height:auto;
+    font-weight:bold;
+    
+}
+a{
+    text-decoration: none;
+    color: #00355f;
+}
+
+#main{
+     height:60px;
+    width=120px;
+}
+
+i:hover{
+    color:blue;
+}
+
+a:hover{
+    color:blue;
+}
+
+body{
+    font-family:arial;
+    background-color:#d4d4d4;
+    color:#00355f;
+}
+
+.p1{
+    color:blue;
+    font-weight:bold;
+    font-size: 16px;
+}
+
+.image1{
+    height:565px;
+    width:700px;
+    float:left;
+}
+
+.g2{
+    margin-left:715px;
+}
+
+.review{
+    float:right;
+    color:blue;
+    font-weight:normal;
+}
+.rating{
+    margin-left:715px;
+    font-weight:bold;
+    font-size:14px;
+}
+
+.good{
+    font-weight:normal;
+}
+
+.a{
+    margin-left:800px;
+}
+
+.frame{
+    margin-left:715px;
+}
+
+.location{
+    color:blue;
+    font-size: 14px;
+}
+.n{
+    font-size: 12px;
+    font-weight:bold;
+}
+.locations{
+    font-size:14px;
+}
+
+.walk{
+    float:right;
+    margin-right:200px;
+}
+.grid-2{
+    background-color:white;
+    border-radius: 8px;
+}
+.search{
+    margin-left: 275px;
+   
+  
+    
+}
+
+.checkin{
+    height:40px;
+    border-radius: 8px;
+    font-size:16px;
+}
+
+.checkout{
+    height:40px;
+    border-radius: 8px;
+    font-size:16px;
+}
+
+.guests{
+    height:40px;
+    border-radius: 8px;
+    font-size:16px;
+}
+
+.submit{
+    background-color: blue;
+    font-size:16px;
+    padding: 14px 40px;
+    border-radius: 8px;
+    color:white;
+    font-weight:bold;
+}
+
+.grid-container{
+    display:grid;
+    grid-template-columns: 315px auto auto;
+    background-color: white;
+    width:auto;
+    border-radius: 8px;
+}
+
+.image2{
+    height:200px;
+    width:300px;
+    grid-row:1;
+    grid-column:1;
+    
+}
+
+.more{
+    color:blue;
+}
+
+.price2{
+    float:right;
+    margin-right:100px;
+}
+
+.option{
+    font-weight:bold;
+}
+
+.per{
+    font-weight:normal;
+}
+.price3{
+    float:right;
+    margin-right:85px;
+}
+
+.Reserve{
+     float:right;
+    margin-right:60px;
+    background-color: blue;
+    font-size:16px;
+    padding: 12px 28px;
+    border-radius: 8px;
+    color:white;
+    font-weight:bold;
+}
+
+#free2{
+    color:green;
+}
+
+#per{
+    color:#00355f;
+}
+.grid-container3{
+    background-color:white;
+    display:grid;
+    border-radius: 8px;
+    grid-template-columns: 700px auto;
+}
+.grid10{
+    margin-left:25px;
+    float:left;
+}
+.grid-item{
+    margin-left:25px;
+}
+.san{
+    font-size:14px;
+}
+
+.check{
+    font-size:14px;
+    color:blue;
+}
+
+.check:hover{
+    text-decoration: underline;
+}
+.h5{
+    width:550px;
+    float:left;
+}
+
+.rating3{
+    font-weight:bold;
+    font-size:60px;
+}
+
+.rating6{
+    font-weight:normal;
+    font-size:16px;
+}
+
+.reviews2{
+    color:blue;
+    font-size:14px;
+}
+.numbers2{
+    font-weight:bold;
+    font-size: 12px;
+}

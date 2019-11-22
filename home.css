@@ -1,0 +1,546 @@
+#menu1{
+    background-color: #fC0;
+}
+
+#main{
+    height:60px;
+    width=120px;
+    margin-left:14px;
+}
+
+#list{
+    background-color: #fC0;
+    font-size: 12px;
+    padding: 6px 8px;
+    border-radius: 4px;
+    border: 1px solid #00355f;
+    color: #00355f;
+    font-weight: 700;
+}
+i {
+  
+  border-width: 0 3px 3px 0;
+  display: inline-block;
+  padding: 3px;
+}
+.down {
+  transform: rotate(45deg);
+  -webkit-transform: rotate(45deg);
+}
+a{
+    text-decoration: none;
+    color: #00355f;
+}
+#menu2{
+    margin-left:750px;
+}
+#menu3{
+    margin-left:25px;
+    font-size: 16px;
+}
+body{
+    font-family:arial;
+    background-color:#d4d4d4;
+}
+
+.btn{
+    background-color: black;
+    font-size:14px;
+    padding: 8px;
+    border-radius: 4px;
+    -webkit-transition-duration: 0.4s; /* Safari */
+  transition-duration: 0.4s;
+    color: white;
+    font-weight: 500;
+    opacity: 85%;
+    
+}
+
+.btn:hover {
+  background-color: #0065b8;
+  color: white;
+}
+
+#r2{
+    margin-left:300px;
+    border: 1px solid black;
+    height:auto;
+    width:900px;
+    background-color:black; 
+    opacity: 85%;
+}
+
+.input {
+  display: flex;
+  width: 100%;
+  margin-bottom: 15px;
+    color: gray;
+}
+
+
+/* Style the input fields */
+.input-field {
+  width: 600px;
+  padding: 10px;
+  outline: none;
+}
+
+.input-field2{
+  width: 100px;
+  padding: 10px;
+  outline: none;
+}
+
+.input-field3{
+  width: 200px;
+  padding: 10px;
+  outline: none;
+}
+
+#check{
+    color:white;
+}
+
+.search{
+    background-color: #fC0;
+    font-size: 16px;
+    padding: 12px 24px;
+    border-radius: 4px;
+    font-weight: 700;
+}
+
+#lower{
+    border:1px groove black;
+    height:150px;
+    background-color:white;
+}
+
+#p1{
+    color:#00355f;
+    margin-left:50px;
+}
+
+#logo2{
+    height:40px;
+    width:40px;
+    float:left;
+}
+
+#p2{
+    color:slategray;
+    font-weight:bold;
+    margin-left:50px;
+    
+}
+
+#sanDiego{
+    color:blue;
+}
+
+#sanDiego:hover{
+    text-decoration: underline;
+}
+
+.image1{
+    background-image: linear-gradient( transparent, #00355f 90%), url(../Images/62637-Guadalajara.jpg);
+   background-size: contain;
+    background-repeat: no-repeat;
+    height:200px;
+    width: 350px;
+    margin-left: 50px;
+    float: left;
+    padding: 5px;
+    
+}
+
+.image2{
+    background-image: linear-gradient( transparent, #00355f 90%), url(../Images/67712-Tijuana.jpg);
+   background-size: contain;
+    background-repeat: no-repeat;
+    height:200px;
+    width: 350px;
+    margin-left: 50px;
+    float: left;
+    padding: 5px;
+    
+}
+
+.image3{
+    background-image: linear-gradient( transparent, #00355f 90%), url(../Images/vegas_bellagio.jpg);
+   background-size: contain;
+    background-repeat: no-repeat;
+    height:200px;
+    width: 350px;
+    margin-left: 50px;
+    float: left;
+    padding: 5px;
+    
+}
+
+
+.column {
+  float: left;
+  width: 24%;
+  padding: 16px;
+ margin-left:45px;
+display:inline-block;
+}
+
+/* Clear floats after image containers */
+.row::after {
+  content: "";
+  clear: both;
+  display: table;
+}
+h2{
+    text-align: center;
+    margin-top:110px;
+    color:white;
+}
+.g{
+    margin-left:25px;
+    background-color:#00355f;
+    color:white;
+   padding: 6px 8px;
+    border-radius: 4px;
+    
+    
+}
+.h{
+    margin-left:40px;
+    background-color: #00355f;
+     color:white;
+    padding: 6px 8px;
+     border-radius: 4px;
+    
+}
+.v{
+    margin-left:25px;
+    background-color: #00355f;
+     color:white;
+    padding: 6px 8px;
+     border-radius: 4px;
+    border: 1px solid white;
+}
+
+#g:hover {
+  opacity: 0.3;
+}
+
+.image4{
+    background-image: linear-gradient( transparent, #00355f 90%), url(../Images/honolulu-hawaii-aerial-view-waikiki-beach.jpg);
+   background-size: contain;
+    background-repeat: no-repeat;
+    height:200px;
+    width: 350px;
+    margin-left: 50px;
+    float: left;
+    padding: 5px;
+    
+}
+
+.image5{
+    background-image: linear-gradient( transparent, #00355f 90%), url(../Images/st-augustine-events-calendar-october-480x270.jpg);
+   background-size: contain;
+    background-repeat: no-repeat;
+    height:200px;
+    width: 350px;
+    margin-left: 50px;
+    float: left;
+    padding: 5px;
+    
+}
+
+.image6{
+    background-image: linear-gradient( transparent, #00355f 90%), url(../Images/Arrive_1200_6b8cfbc3-c86d-4a76-bf43-308c3c27004f.jpg);
+   background-size: contain;
+    background-repeat: no-repeat;
+    height:200px;
+    width: 350px;
+    margin-left: 50px;
+    float: left;
+    padding: 5px;
+    
+}
+#p3{
+    color:white;
+    margin-bottom:20px;
+    margin-left: 45px;
+}
+#inspiration{
+    margin-bottom:10px;
+}
+
+.about{
+    margin-left:3px;
+    background-color:white;
+    border:1 px solid white;
+    height:75px;
+    width:368px;
+    
+}
+
+.a1{
+    color:#0065b8;
+    font-weight:bold;
+    font-size:14px;
+    
+}
+
+#p4{
+    font-size:12px;
+    margin-top:200px;
+    
+}
+.image7{
+    background-image:  url(../Images/member.jpg);
+   background-size: contain;
+    background-repeat: no-repeat;
+    height:auto;
+    width: 350px;
+    margin-left: 50px;
+    float: left;
+    padding: 5px;
+    background-color:white;
+    
+}
+
+.image8{
+    background-image: url(../Images/rewards.jpg);
+   background-size: contain;
+    background-repeat: no-repeat;
+    height:255px;
+    width: 350px;
+    margin-left: 50px;
+    float: left;
+    padding: 5px;
+    background-color:white;
+    
+}
+
+.image9{
+    background-image: url(../Images/flash.jpg);
+   background-size: contain;
+    background-repeat: no-repeat;
+    height:255px;
+    width: 350px;
+    margin-left: 50px;
+    float: left;
+    padding: 5px;
+    background-color:white;
+    
+}
+
+#p5{
+    margin-left:50px;
+    color:gray;
+    font-size: 14px;
+}
+.image10{
+    background-image:  url(../Images/Milos-Mandrakia-Village-e1562936077551.jpg);
+   background-size: contain;
+    background-repeat: no-repeat;
+    height:auto;
+    width: 350px;
+    margin-left: 50px;
+    float: left;
+    padding: 5px;
+    background-color:white;
+    
+}
+
+.image11{
+    background-image: url(../Images/HhsAj.jpg);
+   background-size: contain;
+    background-repeat: no-repeat;
+    height:auto;
+    width: 350px;
+    margin-left: 50px;
+    float: left;
+    padding: 5px;
+    background-color:white;
+    
+}
+
+.image12{
+    background-image:  url(../Images/town_of_copacabana.jpg);
+   background-size: contain;
+    background-repeat: no-repeat;
+    height:auto;
+    width: 350px;
+    margin-left: 50px;
+    float: left;
+    padding: 5px;
+    background-color:white;
+    
+}
+
+#p6{
+    color:white;
+    margin-top:150px;
+}
+
+#p6:hover{
+    text-decoration:underline;
+    font-weight:bold;
+}
+
+#p7{
+    color:gray;
+    font-size: 12px;
+    margin-left:25px;
+}
+
+.grid2 {
+  display: grid;
+  grid-template-columns: auto auto auto;
+  
+  padding: 2px;
+}
+.g2i {
+  
+  
+  padding: 5px;
+  font-size: 12px;
+  text-align: center;
+}
+
+.g2i:hover{
+    text-decoration: underline;
+}
+
+#viewMore{
+    background-color: #d4d4d4;
+    font-size:14px;
+    padding: 12px 28px;
+    border-radius: 4px;
+    border: 1px solid black;
+}
+
+#adver{
+    background-color:white;
+    height:auto;
+}
+
+#lP{
+    background-color: White;
+    font-size:14px;
+    padding: 12px 40px;
+    border-radius: 4px;
+    border: 1px solid blue;
+    color:blue;
+}
+
+
+
+
+
+
+.text2{
+    background-color:white;
+    border:1px solid #00355f;
+    height:500px;
+    width:auto;
+}
+
+
+
+.logo4{
+    height:40px;
+    width:40px;
+    
+}
+
+
+.input1{
+    
+    padding: 10px 25px;
+   border:3px inset ;
+    
+}
+
+.submit{
+    background-color:#fC0;
+    font-size:16px;
+    padding: 10px 20px;
+    border-radius: 8px;
+    color:#00355f;
+    font-weight:bold;
+    
+}
+
+.v1{
+    border-left: 1px solid gray;
+    height: 300px;
+    
+}
+
+#scan{
+    
+    font-weight:bold;
+    color:#00355f;
+    
+}
+
+
+
+.grid-container {
+  display: grid;
+    height:auto;
+    grid-template-columns: auto auto auto auto auto;
+    border:2px solid #00355f;
+}
+
+.grid-item1{
+    grid-row:1;
+    grid-column:1;
+    color:#00355f;
+    font-size:22px;
+    font-weight:bold;
+    
+}
+
+.grid-item2{
+    grid-row:1;
+    grid-column:3;
+}
+
+.grid-item5{
+    border-left:1px solid gray;
+    height:200px;
+    grid-row:1;
+    grid-column:4;
+}
+
+.grid-item6{
+    grid-row:1;
+    grid-column:5;
+    text-align: center;
+}
+
+.grid-item7{
+    grid-row:2;
+    grid-column:1;
+    font-weight:bold;
+    color:#00355f;
+}
+
+.grid-item8{
+    grid-row:2;
+    grid-column: 2;
+    font-weight:bold;
+    color:#00355f;
+}
+.grid-item9{
+    grid-row:2;
+    grid-column: 3;
+    font-weight:bold;
+    color:#00355f;
+}
+.grid-item10{
+    grid-row:5;
+    grid-column-start: 1;
+    grid-column-end:5;
+    font-size:14px;
+    color:#00355f;
+}
